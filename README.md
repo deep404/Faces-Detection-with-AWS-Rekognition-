@@ -6,13 +6,10 @@ Amazon Rekognition Image provides the DetectFaces operation that looks for key f
 ## To detect faces in your image
 __1. If you haven't already:__
 
-__a. Create or update an IAM user with AmazonRekognitionFullAccess and AmazonS3ReadOnlyAccess permissions. For more information, see https://docs.aws.amazon.com/rekognition/latest/dg/rekognition-dg.pdf#page=20&zoom=100,96,202.__
+  * a. Create or update an IAM user with AmazonRekognitionFullAccess and AmazonS3ReadOnlyAccess permissions. For more information, see https://docs.aws.amazon.com/rekognition/latest/dg/rekognition-dg.pdf#page=20&zoom=100,96,202.
+  * b. Install and configure the AWS CLI and the AWS SDKs. For more information, see https://docs.aws.amazon.com/rekognition/latest/dg/rekognition-dg.pdf#page=21&zoom=100,96,105.
 
-__b. Install and configure the AWS CLI and the AWS SDKs. For more information, see https://docs.aws.amazon.com/rekognition/latest/dg/rekognition-dg.pdf#page=21&zoom=100,96,105.__
-
-__2. The design patterns used in this laboratory work are:__
-  * Factory Method
-  * Abstract Factory
-  * Builder
+__2. After you created IAM user and downloaded CSV file with the keys of user, add aws_access_key_id and aws_secret_access_key to Environment variables (on Windows):__
+![alt text](http://url/to/img.png)
 
 
