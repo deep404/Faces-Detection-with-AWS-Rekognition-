@@ -3,6 +3,8 @@
 ------
 Amazon Rekognition Image provides the DetectFaces operation that looks for key facial features such as eyes, nose, and mouth to detect faces in an input image. Amazon Rekognition Image detects the 100 largest faces in an image.
 
+AWS Rekognition Detect Faces is working with real time camera, but you can change the code to work with only local image, or images uploaded to your S3 bucket.
+
 ## To detect faces in your image
 __1. If you haven't already:__
 
@@ -19,4 +21,4 @@ __4. Download the `.py` code on your local machine. Open Terminal and navigate t
 
 __5. If you have done all right, you should see and output like this:__
 
-![alt text](https://github.com/yourbeach/Faces-Detection-with-AWS-Rekognition-/blob/main/images/environment%20Variables.png?raw=true)
+![alt text](https://github.com/yourbeach/Faces-Detection-with-AWS-Rekognition-/blob/main/images/output.png?raw=true)
