@@ -1,8 +1,11 @@
 # Faces-Detection-with-AWS-Rekognition
 ## Moglan Mihai, Machine Learning Engineer
 ------
-## Introduction
-__1. The topic behind this laboratory work is 'Management of electronics store', where the customer selects what type of electronic device he wants and for some gadgets he even selects the parameters for different parts.__
+Amazon Rekognition Image provides the DetectFaces operation that looks for key facial features such as eyes, nose, and mouth to detect faces in an input image. Amazon Rekognition Image detects the 100 largest faces in an image.
+
+## To detect faces in your image
+__1. If you haven't already:__
+__a. Create or update an IAM user with AmazonRekognitionFullAccess and AmazonS3ReadOnlyAccess permissions. For more information, see https://docs.aws.amazon.com/rekognition/latest/dg/rekognition-dg.pdf#page=20&zoom=100,96,202 __
 
 __2. The design patterns used in this laboratory work are:__
   * Factory Method
