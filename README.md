@@ -10,6 +10,6 @@ __1. If you haven't already:__
   * b. Install and configure the AWS CLI and the AWS SDKs. For more information, see https://docs.aws.amazon.com/rekognition/latest/dg/rekognition-dg.pdf#page=21&zoom=100,96,105.
 
 __2. After you created IAM user and downloaded CSV file with the keys of user, add aws_access_key_id and aws_secret_access_key to Environment variables (on Windows):__
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/yourbeach/Faces-Detection-with-AWS-Rekognition-/blob/main/images/environment%20Variables.png?raw=true)
 
 
