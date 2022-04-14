@@ -13,4 +13,5 @@ __2. After you created IAM user and downloaded CSV file with the keys of user, a
 
 ![alt text](https://github.com/yourbeach/Faces-Detection-with-AWS-Rekognition-/blob/main/images/environment%20Variables.png?raw=true)
 
+__3. Open terminal and install boto3, in order to use AWS Machine Learning Features. To install use `pip install boto3` or `pip3 install boto3`, it depends by your environment;__
 
